@@ -1,4 +1,4 @@
-# Blog-Admin
+# Blog-Admin-Web
 
 Blog API Address: [https://github.com/qinxiaoblog/blog](https://github.com/qinxiaoblog/blog)
 
