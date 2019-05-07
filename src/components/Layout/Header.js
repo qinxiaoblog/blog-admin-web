@@ -61,7 +61,7 @@ class HeaderCustom extends Component {
           />
         </div>
         <div>
-          <StyledButton onClick={this.onSignOutClick}>登出</StyledButton>
+          <StyledButton onClick={this.onSignOutClick}>退出</StyledButton>
         </div>
       </StyledHeader>
     )

@@ -51,7 +51,7 @@ class ResumeInput extends React.Component {
     return (
       <StyledInputGroupContainer>
         <TextArea
-          placeholder="markdown格式的简历内容"
+          placeholder="markdown格式的内容"
           value={this.state.markdownContent}
           onChange={this.onChange}
           autosize={{ minRows: 6, maxRows: 8 }}
