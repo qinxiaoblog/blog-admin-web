@@ -1,6 +1,6 @@
 {
-  "short_name": "ZALE_BLOG_ADMIN",
-  "name": "guozeling's blog admin",
+  "short_name": "BLOG_ADMIN",
+  "name": "blog admin",
   "icons": [
     {
       "src": "favicon.ico",
